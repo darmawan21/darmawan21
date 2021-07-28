@@ -19,9 +19,10 @@ This is the place where I opensource stuff and break things :rofl:
 
 - 🔭 I’m currently working on something cool 😉
 - 🌱 I’m currently learning Flutter, JavaScript
-- 💬 Ask me about anything tech because i loved
-- 📫 How to reach me: [@ddrwwn](https://twitter.com/ddrwwn)
+- 💬 Ask me about Flutter, JavaScript, and PHP
+- 📫 How to reach me: [@ddrwwn](https://twitter.com/ddrwwn) on Twitter
 - ⚡ Fun fact: I :heart: watch anime hehe
+
 
 ### Portfolio
 
