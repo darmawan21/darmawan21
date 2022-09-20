@@ -24,6 +24,7 @@
 - Writing & Public Speaking
 
 ## 🚀 How to reach me :
+- Email : [muhammaddiki.dev@gmail.com](mailto:muhammaddiki.dev@gmail.com)
 - LinkedIn: [Muhammad Diki Darmawan](https://www.linkedin.com/in/muhammad-diki-darmawan)
 - Twitter: [@ddrwwn](https://twitter.com/ddrwwn)
 
