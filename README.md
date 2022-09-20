@@ -24,7 +24,7 @@
 - Writing & Public Speaking
 
 ## 🚀 How to reach me :
-- LinkedIn: [muhammad diki d](https://www.linkedin.com/in/muhammad-diki-darmawan)
+- LinkedIn: [Muhammad Diki Darmawan](https://www.linkedin.com/in/muhammad-diki-darmawan)
 - Twitter: [@ddrwwn](https://twitter.com/ddrwwn)
 
 ---
