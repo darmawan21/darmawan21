@@ -30,4 +30,4 @@
 
 ---
 
-© 2022 — Sutan Gading Fadhillah Nasution
+© 2022 — Muhammad Diki Darmawan
